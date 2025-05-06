@@ -88,6 +88,10 @@ Benefits include:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+## Reference
+
+Check out the original Dashboard by Mynda Treacy here: https://www.youtube.com/watch?v=_PlBRWc0RlI
+
 ## Contact
 
 If you'd like to connect or share feedback:
